@@ -31,10 +31,10 @@
 
 ## Projects:
 <ul>
-  <li>Scraping : 
-  <ol>
+  <li>Scraping 
+  <ul>
     <li>first proj </li>
-    </ol>
+    </ul>
   </li> 
  </ul>
 
