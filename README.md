@@ -33,14 +33,14 @@
 <ul>
   <li>Scraping 
   <ul>
-    <li>[Amazon Crawler](https://github.com/issamoxix/AmazonCrawler)</li>
-    <li>[EzScraper](https://github.com/issamoxix/EzScraper)</li>
-    <li>[Scrapix](https://github.com/issamoxix/Scrapix)</li>
-    <li>[Task (Scraping from booking.com)](https://github.com/issamoxix/task1)</li>
-    <li>[Instagram Crawler](https://github.com/issamoxix/insta_follower_tracker)</li>
-    <li>[Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr)</li>
-    <li>[Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr)</li>
-    <li>[CasablancaSchools](https://github.com/issamoxix/EcolePriveCasablanca)</li>
+    <li> [Amazon Crawler](https://github.com/issamoxix/AmazonCrawler) </li>
+    <li> [EzScraper](https://github.com/issamoxix/EzScraper) </li>
+    <li> [Scrapix](https://github.com/issamoxix/Scrapix) </li>
+    <li> [Task (Scraping from booking.com)](https://github.com/issamoxix/task1) </li>
+    <li> [Instagram Crawler](https://github.com/issamoxix/insta_follower_tracker) </li>
+    <li> [Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr) </li>
+    <li> [Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr) </li>
+    <li> [CasablancaSchools](https://github.com/issamoxix/EcolePriveCasablanca) </li>
     </ul>
   </li> 
  </ul>
