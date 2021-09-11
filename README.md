@@ -33,8 +33,9 @@
 <ul>
   <li>Scraping 
   <ul>
+    <li> [here](https://www.youtube.com) </li>
     <li> [Amazon Crawler](https://github.com/issamoxix/AmazonCrawler) </li>
-    <li> [EzScraper](https://github.com/issamoxix/EzScraper) </li>
+    <li> [`EzScraper`] [EzScraper] </li>
     <li> [Scrapix](https://github.com/issamoxix/Scrapix) </li>
     <li> [Task (Scraping from booking.com)](https://github.com/issamoxix/task1) </li>
     <li> [Instagram Crawler](https://github.com/issamoxix/insta_follower_tracker) </li>
@@ -66,6 +67,6 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
 [instagram]: https://www.instagram.com/issam__h/
 [linkedin]: https://www.linkedin.com/in/issam-h-326046135/
-
+[EzScraper]: https://github.com/issamoxix/EzScraper
 ![Issam](https://github-readme-stats.vercel.app/api?username=issamoxix&show_icons=true)
 
