@@ -31,7 +31,7 @@
 
 ## Projects:
 - Scraping
- 1. first proj
+>> first proj
 </br>
 </br>
 
