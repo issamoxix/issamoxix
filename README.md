@@ -2,11 +2,10 @@
 
 ## I'm a Physics Student, Developer and a Data Science enthusiast 
 - 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything :) 
 
 ### Connect with me:
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="Ssam's Tech | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="issamoxix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="issam-h-326046135 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="issam__h | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -25,3 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Issam](https://github-readme-stats.vercel.app/api?username=issamoxix&show_icons=true)
+[twitter]: https://twitter.com/issamoxix
+[youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
+[instagram]: https://www.instagram.com/issam__h/
+[linkedin]: https://www.linkedin.com/in/issam-h-326046135/
