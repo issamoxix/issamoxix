@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/python.png" />]
+<img align="left" alt="Python" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/python.png" />
 
 <!--
 **issamoxix/issamoxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
