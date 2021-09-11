@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Issam](https://github-readme-stats.vercel.app/api?username=issamoxix&show_icons=true)
 [twitter]: https://twitter.com/issamoxix
 [youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
 [instagram]: https://www.instagram.com/issam__h/
 [linkedin]: https://www.linkedin.com/in/issam-h-326046135/
+
+![Issam](https://github-readme-stats.vercel.app/api?username=issamoxix&show_icons=true)
+
