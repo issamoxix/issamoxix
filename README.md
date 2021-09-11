@@ -17,6 +17,13 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/python.png" />
+<img align="left" alt="Javascript" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/javascript.png" />
+<img align="left" alt="TypeScript" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/typescript.png" />
+<img align="left" alt="React" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/react.png" />
+<img align="left" alt="Css" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/css.png" />
+<img align="left" alt="Jupyter" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/jupyter.png" />
+<img align="left" alt="VsCode" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/vscode.png" />
+<img align="left" alt="Github" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/github.png" />
 
 
 </br>
