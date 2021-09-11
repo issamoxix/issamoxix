@@ -28,22 +28,44 @@
 
 </br>
 </br>
-
+<
 ## Projects:
 <ul>
   <li>Scraping 
   <ul>
-    <li> [here](https://www.youtube.com) </li>
-    <li> [Amazon Crawler](https://github.com/issamoxix/AmazonCrawler) </li>
-    <li> [`EzScraper`] [EzScraper] </li>
-    <li> [Scrapix](https://github.com/issamoxix/Scrapix) </li>
-    <li> [Task (Scraping from booking.com)](https://github.com/issamoxix/task1) </li>
-    <li> [Instagram Crawler](https://github.com/issamoxix/insta_follower_tracker) </li>
-    <li> [Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr) </li>
-    <li> [Scraping pdfs (+20gb)](https://github.com/issamoxix/tdr) </li>
-    <li> [CasablancaSchools](https://github.com/issamoxix/EcolePriveCasablanca) </li>
+    <li><a href="https://github.com/issamoxix/AmazonCrawler">Amazon Crawler</a> </li>
+    <li> <a href="https://github.com/issamoxix/Scrapix">Scrapix</a> </li>
+    <li> <a href="https://github.com/issamoxix/task1">Task (Scraping from booking.com)</a> </li>
+    <li> <a href="https://github.com/issamoxix/insta_follower_tracker">Instagram Crawler</a> </li>
+    <li> <a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
+    <li><a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
+    <li><a href="https://github.com/issamoxix/EcolePriveCasablanca">CasablancaSchools</a> </li>
+    <li><a href="https://github.com/issamoxix/AnimeGo">AnimeGo</a></li>
     </ul>
   </li> 
+  <li>Web Developement (React js, Next js )
+  <ul>
+  <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
+  <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
+  <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
+  <li><a href="https://github.com/issamoxix/git-repo-explorer">Git-repo-explorer</a></li>
+  <li><a href="https://github.com/issamoxix/Desktop-Messanger">Desktop Messenger</a></li>
+  <li><a href="https://github.com/issamoxix/Project0">Project0</a></li>
+  <li><a href="https://github.com/issamoxix/Genesis-Tech">Genesis-Tech</a></li>
+  </ul>
+  </li>
+  <li>Automation & api
+  <ul>
+  <li><a href="https://github.com/issamoxix/riot_api">Riot_api</a></li>
+  <li><a href="https://github.com/issamoxix/albion_profite_checker">Albion_Bm_Profite</a></li>
+  <li><a href="https://github.com/issamoxix/albion-auto-searh">Albion Bot</a></li>
+  </ul>
+  </li>
+  <li>Data Analysis
+  <ul>
+  <li><a href="https://github.com/issamoxix/SalesAnalysis">Sales Anayltics</a></li>
+  </ul>
+  </li>
  </ul>
 
 </br>
@@ -67,6 +89,5 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
 [instagram]: https://www.instagram.com/issam__h/
 [linkedin]: https://www.linkedin.com/in/issam-h-326046135/
-[EzScraper]: https://github.com/issamoxix/EzScraper
 ![Issam](https://github-readme-stats.vercel.app/api?username=issamoxix&show_icons=true)
 
