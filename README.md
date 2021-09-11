@@ -11,9 +11,15 @@
 [<img align="left" alt="issam-h-326046135 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="issam__h | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+</br>
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/python.png" />
+
+
+</br>
 
 <!--
 **issamoxix/issamoxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
