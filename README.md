@@ -30,8 +30,8 @@
 </br>
 
 ## Projects:
--Scraping
- 1- first proj
+- Scraping
+ 1. first proj
 </br>
 </br>
 
