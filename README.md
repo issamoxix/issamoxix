@@ -30,8 +30,14 @@
 </br>
 
 ## Projects:
-- Scraping
->> first proj
+<ul>
+  <li>Scraping : 
+  <ol>
+    <li>first proj </li>
+    </ol>
+  </li> 
+ </ul>
+
 </br>
 </br>
 
