@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Issam - aka issamoxix 👋
 
+## I'm a Physics Student, Developer and a Data Science enthusiast 
+- 🌱 I’m currently learning Machine Learning
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything :) 
+
+### Connect with me:
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="issamoxix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="issam-h-326046135 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="issam__h | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!--
 **issamoxix/issamoxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
