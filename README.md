@@ -1,4 +1,4 @@
-### Hi there, I'm Issam - aka issamoxix 👋
+### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
 ## I'm a Physics Student, Developer and a Data Science enthusiast 
 - 🌱 I’m currently learning Machine Learning
