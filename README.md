@@ -42,6 +42,7 @@
     <li><a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
     <li><a href="https://github.com/issamoxix/EcolePriveCasablanca">CasablancaSchools</a> </li>
     <li><a href="https://github.com/issamoxix/AnimeGo">AnimeGo</a></li>
+    <li><a href="https://github.com/issamoxix/selenium">Selenium proj</a></li>
     </ul>
   </li> 
   <li>Web Developement (React js, Next js )
