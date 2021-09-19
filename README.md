@@ -1,7 +1,7 @@
 ### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
 ## I'm a Physics Student, Developer and a Data Science enthusiast 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning & docker 
 - 💬 Ask me about anything :) 
 
 ### Connect with me:
