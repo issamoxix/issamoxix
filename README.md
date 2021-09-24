@@ -39,7 +39,6 @@
     <li> <a href="https://github.com/issamoxix/task1">Task (Scraping from booking.com)</a> </li>
     <li> <a href="https://github.com/issamoxix/insta_follower_tracker">Instagram Crawler</a> </li>
     <li> <a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
-    <li><a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
     <li><a href="https://github.com/issamoxix/EcolePriveCasablanca">CasablancaSchools</a> </li>
     <li><a href="https://github.com/issamoxix/AnimeGo">AnimeGo</a></li>
     <li><a href="https://github.com/issamoxix/selenium">Selenium proj</a></li>
