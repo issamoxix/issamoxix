@@ -35,6 +35,7 @@
   <li>Scraping 
   <ul>
     <li><a href="https://github.com/issamoxix/AmazonCrawler">Amazon Crawler</a> </li>
+    <li><a href="https://github.com/issamoxix/EzScraper">EzScraper</a></li>
     <li> <a href="https://github.com/issamoxix/Scrapix">Scrapix</a> </li>
     <li> <a href="https://github.com/issamoxix/task1">Task (Scraping from booking.com)</a> </li>
     <li> <a href="https://github.com/issamoxix/insta_follower_tracker">Instagram Crawler</a> </li>
