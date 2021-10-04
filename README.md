@@ -67,6 +67,7 @@
   <ul>
   <li><a href="https://github.com/issamoxix/SalesAnalysis">Sales Anayltics</a></li>
    <li><a href="https://github.com/issamoxix/Loan-Prediction-Analysis">Loan Predictions</a></li>
+    <li><a href="https://github.com/issamoxix/cleaning_Data_ex">Cleaning Data Challenge</a></li>
   </ul>
   </li>
  </ul>
