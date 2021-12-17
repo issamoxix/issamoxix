@@ -1,7 +1,7 @@
 ### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
 ## I'm a Physics Student, Developer and a Data Science enthusiast 
-- 🌱 I’m currently learning Machine Learning & docker 
+- 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about anything :) 
 
 ### Connect with me:
@@ -25,6 +25,7 @@
 <img align="left" alt="Jupyter" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/jupyter.png" />
 <img align="left" alt="VsCode" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/vscode.png" />
 <img align="left" alt="Github" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/github.png" />
+<img align="left" alt="Docker" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/docker.png" />
 
 
 </br>
