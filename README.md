@@ -1,6 +1,6 @@
 ### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
-## I'm a Physics Student, Developer and a Data Science enthusiast 
+## I'm a Physics Graduate , Developer and a Data Science enthusiast 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about anything :) 
 
