@@ -33,6 +33,18 @@
 
 ## Projects:
 <ul>
+  <li>Web Developement (React js, Next js, Typescript)
+  <ul>
+  <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
+  <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
+  <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
+  <li><a href="https://github.com/issamoxix/git-repo-explorer">Git-repo-explorer</a></li>
+  <li><a href="https://github.com/issamoxix/Desktop-Messanger">Desktop Messenger</a></li>
+  <li><a href="https://github.com/issamoxix/Project0">Project0</a></li>
+  <li><a href="https://github.com/issamoxix/Genesis-Tech">Genesis-Tech</a></li>
+  <li><a href="https://github.com/issamoxix/albion_profite_checker">Albion_Bm_Profite</a></li>
+  </ul>
+  </li>
   <li>Scraping 
   <ul>
     <li><a href="https://github.com/issamoxix/BerlinRentMonitoring">BerlinRentMonitoring</a></li>
@@ -47,21 +59,9 @@
     <li><a href="https://github.com/issamoxix/selenium">Selenium proj</a></li>
     </ul>
   </li> 
-  <li>Web Developement (React js, Next js )
-  <ul>
-  <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
-  <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
-  <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
-  <li><a href="https://github.com/issamoxix/git-repo-explorer">Git-repo-explorer</a></li>
-  <li><a href="https://github.com/issamoxix/Desktop-Messanger">Desktop Messenger</a></li>
-  <li><a href="https://github.com/issamoxix/Project0">Project0</a></li>
-  <li><a href="https://github.com/issamoxix/Genesis-Tech">Genesis-Tech</a></li>
-  </ul>
-  </li>
   <li>Automation & api
   <ul>
   <li><a href="https://github.com/issamoxix/riot_api">Riot_api</a></li>
-  <li><a href="https://github.com/issamoxix/albion_profite_checker">Albion_Bm_Profite</a></li>
   <li><a href="https://github.com/issamoxix/albion-auto-searh">Albion Bot</a></li>
   </ul>
   </li>
