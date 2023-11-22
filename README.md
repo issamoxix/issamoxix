@@ -1,7 +1,7 @@
 ### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
 ## I'm a Physics Graduate , Developer and a Data Science enthusiast 
-- 🌱 I’m currently learning Machine Learning 
+- 🌱 I’m currently learning Go & Scala
 - 💬 Ask me about anything :) 
 
 ### Connect with me:
