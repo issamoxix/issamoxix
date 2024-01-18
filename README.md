@@ -33,9 +33,10 @@
 
 ## Projects:
 <ul>
-  <li>Web Developement (React js, Next js, Typescript)
+  <li>Web Developement (React js, Next js, Typescript, Python & Go)
   <ul>
   <li><a href="https://www.issamcloud.com/">Issamcloud.com</a></li>
+  <li><a href="https://github.com/issamoxix/QueueYT">Youtube Queue</a></li>
   <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
   <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
   <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
