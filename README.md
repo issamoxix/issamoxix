@@ -17,6 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/python.png" />
+<img align="left" alt="Go" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/go.png" />
 <img align="left" alt="Javascript" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/javascript.png" />
 <img align="left" alt="TypeScript" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/typescript.png" />
 <img align="left" alt="React" width="24px" src="https://github.com/issamoxix/issamoxix/blob/master/icons/react.png" />
@@ -37,6 +38,7 @@
   <ul>
   <li><a href="https://www.issamcloud.com/">Issamcloud.com</a></li>
   <li><a href="https://github.com/issamoxix/QueueYT">Youtube Queue</a></li>
+  <li><a href="https://github.com/issamoxix/LeaguePicker">League Picker</a></li>
   <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
   <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
   <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
