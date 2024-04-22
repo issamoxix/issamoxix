@@ -1,9 +1,5 @@
 ### Hi there, I'm Issam Haidaoui - aka issamoxix 👋
 
-## I'm a Physics Graduate , Developer and a Data Science enthusiast 
-- 🌱 I’m currently learning Go & Scala
-- 💬 Ask me about anything :) 
-
 ### Connect with me:
 
 [<img align="left" alt="issamoxix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
