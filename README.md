@@ -36,7 +36,6 @@
   <li><a href="https://github.com/issamoxix/QueueYT">Youtube Queue</a></li>
   <li><a href="https://github.com/issamoxix/LeaguePicker">League Picker</a></li>
   <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
-  <li><a href="https://github.com/issamoxix/RemotePlayer">RemotePlayer</a></li>
   <li><a href="https://github.com/issamoxix/SoundCloud-Player">SoundCloud-Player</a></li>
   <li><a href="https://github.com/issamoxix/git-repo-explorer">Git-repo-explorer</a></li>
   <li><a href="https://github.com/issamoxix/Desktop-Messanger">Desktop Messenger</a></li>
@@ -77,20 +76,7 @@
 </br>
 </br>
 
-<!--
-**issamoxix/issamoxix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [twitter]: https://twitter.com/issamoxix
 [youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
 [instagram]: https://www.instagram.com/issam__h/
