@@ -32,9 +32,9 @@
 <ul>
   <li>Web Developement (React js, Next js, Typescript, Python & Go)
   <ul>
-  <li><a href="https://orionhotel.io/">Orionhotel.io</a></li>
-  <li><a href="https://hellosauri.com/">Hellosauri.com</a></li>
-  <li><a href="https://www.issamcloud.com/">Issamcloud.com</a></li>
+  <li><a href="https://orionhotel.io/" target="_blank" >Orionhotel.io</a></li>
+  <li><a href="https://hellosauri.com/" target="_blank" >Hellosauri.com</a></li>
+  <li><a href="https://www.issamcloud.com/" target="_blank" >Issamcloud.com</a></li>
   <li><a href="https://github.com/issamoxix/QueueYT">Youtube Queue</a></li>
   <li><a href="https://github.com/issamoxix/LeaguePicker">League Picker</a></li>
   <li><a href="https://github.com/issamoxix/LoLMaLeaderboard">LoLMaLeaderboard</a></li>
