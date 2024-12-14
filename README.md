@@ -51,11 +51,11 @@
     <li><a href="https://github.com/issamoxix/BerlinRentMonitoring">BerlinRentMonitoring</a></li>
     <li><a href="https://github.com/issamoxix/AmazonCrawler">Amazon Crawler</a> </li>
     <li><a href="https://github.com/issamoxix/EzScraper">EzScraper</a></li>
-    <li> <a href="https://github.com/issamoxix/Scrapix">Scrapix</a> </li>
-    <li> <a href="https://github.com/issamoxix/task1">Task (Scraping from booking.com)</a> </li>
-    <li> <a href="https://github.com/issamoxix/insta_follower_tracker">Instagram Crawler</a> </li>
-    <li> <a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a> </li>
-    <li><a href="https://github.com/issamoxix/EcolePriveCasablanca">CasablancaSchools</a> </li>
+    <li><a href="https://github.com/issamoxix/Scrapix">Scrapix</a></li>
+    <li><a href="https://github.com/issamoxix/task1">Task (Scraping from booking.com)</a></li>
+    <li><a href="https://github.com/issamoxix/insta_follower_tracker">Instagram Crawler</a></li>
+    <li><a href="https://github.com/issamoxix/tdr">Scraping pdfs (+20gb)</a></li>
+    <li><a href="https://github.com/issamoxix/EcolePriveCasablanca">CasablancaSchools</a></li>
     <li><a href="https://github.com/issamoxix/AnimeGo">AnimeGo</a></li>
     <li><a href="https://github.com/issamoxix/selenium">Selenium proj</a></li>
     </ul>
@@ -74,7 +74,7 @@
   </ul>
   </li>
  </ul>
-
+ 
 </br>
 </br>
 
@@ -83,5 +83,4 @@
 [youtube]: https://www.youtube.com/channel/UCuPmS__BowwnDTFkham4_bQ
 [instagram]: https://www.instagram.com/issam__h/
 [linkedin]: https://www.linkedin.com/in/issam-h-326046135/
-![Issam](https://github-readme-stats-jrhs-projects.vercel.app/api?username=issamoxix&show_icons=true)
 
